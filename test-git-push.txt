@@ -1,1 +1,1 @@
-Pushing the forked project repository from Valaxy technologies into my Devops project
+Pushing the forked project repository from Valaxy technologies into my Devops project by renaming git author name/email
